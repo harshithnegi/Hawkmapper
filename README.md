@@ -1,3 +1,7 @@
+# HawkMapper
+
+An automated reconnaissance and information gathering framework for penetration testers, bug bounty hunters, and security researchers.
+
 <h1 align="center">
   <img src="assets/banner.png" alt="Hawkmapper Banner" width="100%">
 </h1>
